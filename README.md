@@ -1,1 +1,1 @@
-<h1 align="center">KP Rafif Naufal Prayatna - Sistem Inventori Barang Pada Sukanesia</h1>
+<h1 align="left">KP Rafif Naufal Prayatna - Sistem Inventori Barang Pada Sukanesia</h1>
